@@ -5,7 +5,7 @@ Lysosomes (LS),
 Mitochondria (MT),
 Golgi (GL),
 Peroxisomes (PO),
-Endoplasmic Reticulum (ER),
+Endoplasmic Reticulum (ER), and
 Lipid Droplets (LDs)
 
 The pipeline is divided in three parts:
