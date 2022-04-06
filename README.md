@@ -1,11 +1,11 @@
 # CellProfiler Pipeline 2D segmentation
 This is an automated pipeline for the subcellular segmentation of 7 different organelles, in 2D dimensions:
-Nuclei (NU)
-Lysosomes (LS)
-Mitochondria (MT)
-Golgi (GL)
-Peroxisomes (PO)
-Endoplasmic Reticulum (ER)
+Nuclei (NU),
+Lysosomes (LS),
+Mitochondria (MT),
+Golgi (GL),
+Peroxisomes (PO),
+Endoplasmic Reticulum (ER),
 Lipid Droplets (LDs)
 
 The pipeline is divided in three parts:
